@@ -73,13 +73,15 @@ body{
 
 .sale-image{
     display: flex;
-    justify-content: space-between;   
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .sale-image img{
     height: 50%;
     width: 100%;
 }
+
 .recommended{
     margin: 8px;
 }
