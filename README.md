@@ -44,5 +44,5 @@ This project is a **simple Udemy clone website** built using **HTML and CSS**. I
 ### 🔗 Project Links
 
 * 🔗 **Live Demo**: [View Website](https://karthikthangadurai.github.io/Udemy-Clone-Project/)
-* 🗂️ **GitHub Repo**: [View Code](https://github.com/your-username/udemy-clone)
+* 🗂️ **GitHub Repo**: [View Code](https://karthikthangadurai.github.io/Udemy-Clone-Project/)
 
