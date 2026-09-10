@@ -70,6 +70,7 @@ body{
     top: 20px;
     right: 0;
     display: none;
+    padding: 10px;
 }
 
 .mylearning:hover .mylearning__popup{
@@ -234,6 +235,10 @@ body{
     body{
         font-size: 10px;
     } 
+    .mylearning__popup{
+        top: 25px;
+        padding: 5px;
+    }
 }
 
 @media screen and (max-width:600px) {
