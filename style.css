@@ -249,4 +249,25 @@ body{
     .navbar__s4{
         display: block;
     }
+
+    .sale-image__offer{
+        width: 40%;
+        top: 15%;
+        left: 5%;
+    }
+}
+
+@media screen and (max-width:410px) {
+    .sale-image__offer{
+       height: 40%;
+       font-size: 9px;
+    }
+    
+}
+
+@media screen and (max-width:350px) {
+        .sale-image__offer{
+       display: none;
+        }
+    
 }
